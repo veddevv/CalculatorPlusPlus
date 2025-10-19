@@ -11,13 +11,18 @@ A simple command-line calculator program written in C++ that performs basic arit
 
 ## Requirements
 
-- C++ compiler (g++, clang++, or equivalent)
+- C++ compiler (gcc, clang++, or g++)
 - No external dependencies required
 - Standard C++ library only
 
 ## Compilation
 
 To compile the program, use one of the following commands:
+
+### Using GCC
+```bash
+gcc main.cpp -o main -lstdc++
+```
 
 ### Using g++
 ```bash
