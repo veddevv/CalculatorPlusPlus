@@ -1,6 +1,6 @@
 # Calculator++
 
-A simple command-line calculator program written in C++ that performs basic arithmetic operations. As you can see, it based off of the name of the programming language C++.
+A simple command-line calculator program written in C++ that performs basic arithmetic operations. As you can see, it based off of the name of the programming language C++. This is also my very first C++ program ever.
 
 ## Features
 
